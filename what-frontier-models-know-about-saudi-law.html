@@ -1,0 +1,61 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>What frontier models know about Saudi law | Mohamed Zaghoo</title><meta name="description" content="Four frontier models answered 79 basic Saudi legal questions from memory. The best fully answered 33. What the gaps mean for building Arabic legal data in MENA."><link rel="icon" href="assets/038152421f57c1.png"><link rel="stylesheet" href="style.css"><style>.article table{border-collapse:collapse;width:100%;font:15px/1.5 Arial,sans-serif;margin:8px 0 6px}.article th,.article td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}.article th{color:var(--muted);font-weight:400;font-size:13px;letter-spacing:.05em;text-transform:uppercase}.article td.r,.article th.r{text-align:right;font-variant-numeric:tabular-nums}.article tr.best td{font-weight:bold}.tablebox{overflow-x:auto;margin:0 0 26px}.article figure img{max-height:none;margin:10px 0}.article figcaption{font:14px/1.55 Arial,sans-serif;color:var(--muted)}.article .ar{font-family:"Geeza Pro","Noto Naskh Arabic","Arial",sans-serif;direction:rtl;unicode-bidi:isolate}.article ol li,.article ul li{margin-bottom:12px}.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:7px;vertical-align:baseline}.article .highlight{margin:34px 0}</style></head><body><a class="skip" href="#main">Skip to content</a><header class="masthead"><a class="identity" href="index.html"><img src="assets/038152421f57c1.png" alt=""><span>Mohamed Zaghoo</span></a><p>Applied Physicist · AI Post-Training Lead · Technical Founder</p></header><nav aria-label="Main navigation"><a href="index.html">Home</a><a href="about-me.html">About Me</a><a href="publications.html">Publications</a><a href="in-the-news.html">In the News</a><a href="research-blog.html" aria-current="page">Research Blog</a><a href="contact-me.html">Contact Me</a></nav><main id="main"><a class="back" href="research-blog.html">All research articles</a><article class="article">
+<p class="eyebrow">AI evaluation research</p>
+<h1>What frontier models know about Saudi law, and why MENA needs better legal data</h1>
+<p class="meta">November 2026</p>
+
+<p><strong>I asked four frontier models 79 basic questions about Saudi legal procedure, fees and licensing, from memory. With Saudi law named as the jurisdiction, the best of them fully answered 33. None fully answered a single question on professional licensing. These are the kind of questions a court portal's help page answers, and the gaps say a lot about what data Arabic legal AI is still missing.</strong></p>
+
+<h2>The test</h2>
+<p>The questions come from the Najiz set of <a href="https://github.com/Thiqah/ArabLegalEval">ArabLegalEval</a>, a public Arabic legal benchmark. Each has a short reference answer: a court fee, a deadline, the conditions for a licence, the body that decides a dispute. A Saudi lawyer would look most of them up in seconds.</p>
+<p>Gemini 4 Carbon, GPT-6 Astra, Claude Opus 5.5 and Muse Spark 1.3 answered all 79 in Arabic, without search, tools or documents. Each was told to say «لا أعرف» ("I don't know") rather than guess. I graded every answer against a rubric of 270 required elements taken from the reference answers, weighted by type: core principles count most, then deadlines and amounts, then conditions and list items. A wrong amount or deadline cuts an answer's score by 70%, and a contradiction scores zero. Claude Sonnet 5.5 graded all four answer sets blind, one question at a time, with the answers relabelled in a fresh random order for each question.</p>
+
+<div class="tablebox"><table>
+<thead><tr><th>Model</th><th class="r">Fully correct</th><th class="r">Partial</th><th class="r">Wrong or no answer</th><th class="r">Mean score</th><th class="r">«لا أعرف»</th></tr></thead>
+<tbody>
+<tr class="best"><td><span class="dot" style="background:#009E73"></span>Gemini 4 Carbon</td><td class="r">33</td><td class="r">20</td><td class="r">26</td><td class="r">0.591</td><td class="r">15</td></tr>
+<tr><td><span class="dot" style="background:#0072B2"></span>GPT-6 Astra</td><td class="r">28</td><td class="r">18</td><td class="r">33</td><td class="r">0.504</td><td class="r">26</td></tr>
+<tr><td><span class="dot" style="background:#D55E00"></span>Claude Opus 5.5</td><td class="r">12</td><td class="r">21</td><td class="r">46</td><td class="r">0.331</td><td class="r">6</td></tr>
+<tr><td><span class="dot" style="background:#CC79A7"></span>Muse Spark 1.3</td><td class="r">11</td><td class="r">20</td><td class="r">48</td><td class="r">0.326</td><td class="r">30</td></tr>
+</tbody></table></div>
+
+<figure><img loading="lazy" src="assets/najiz-four-model-grades.svg" alt="Grid of 79 squares per model showing which questions each of the four models answered correctly, partially or wrongly" width="900" height="278"><figcaption>One square per question, Q1 to Q79. A solid square is fully correct: a rubric score of at least 0.85 with every core principle, deadline and amount present.</figcaption></figure>
+
+<h2>Five findings</h2>
+<ol>
+<li><strong>Simple facts are the weak point.</strong> The best model was fully correct on 42% of the questions, and two of the four on 14–15%. These are not reasoning puzzles; each has one settled answer in a statute, regulation or ministry rule.</li>
+<li><strong>Licensing is a blind spot for every model.</strong> None of the four fully answered any of the 10 questions on licensing lawyers, notaries, foreign law firms or enforcement service providers. The best mean score there was 0.13.</li>
+<li><strong>Each model knows a different part of Saudi law.</strong> Gemini leads on criminal procedure (0.92), enforcement (0.72) and family law (0.71). Astra leads on court fees: it recalled 8 of the 16 fee and rate amounts exactly, against 6 for Gemini and 2 each for the other two.</li>
+<li><strong>They fail in different ways.</strong> Astra declines when unsure and was wrong on only 7 of the 53 questions it attempted. Opus attempted 73 and was graded wrong on 40, including 8 wrong amounts or deadlines stated as fact.</li>
+<li><strong>Naming the jurisdiction matters.</strong> The benchmark's questions never say "Saudi Arabia". In a first run without it, Gemini and Muse often answered in general terms or said the country was unspecified. One added line, <span class="ar">«أجب وفق الأنظمة المعمول بها في المملكة العربية السعودية»</span>, raised Gemini's mean score from 0.47 to 0.59 and Muse's from 0.14 to 0.33.</li>
+</ol>
+
+<figure><img loading="lazy" src="assets/najiz-four-model-areas.svg" alt="Dot plot of each model's mean rubric score across seven areas of Saudi law" width="900" height="350"><figcaption>Mean rubric score by area of law. All four models do best on procedure set out in the main statutes and worst on licensing rules and fee schedules. Areas were assigned by the author from each question's subject.</figcaption></figure>
+
+<h2>Why the models miss</h2>
+<p>The likeliest explanation is that this material is thin in the models' training data. Saudi implementing regulations, fee schedules and licensing rules are published mostly in Arabic, change often, and are rarely discussed online the way, say, US federal procedure is. The pattern fits: every model did best on rules from the main statutes, which are widely reproduced, and worst on regulations and ministry procedures. This study can't separate missing training data from other causes, such as rules changing after a model's training or the effect of asking in Arabic.</p>
+
+<h2>What this means for MENA legal data</h2>
+<p>The results are small, but they point to five things that legal data for the region has to get right.</p>
+<ol>
+<li><strong>The gap is shared, so the data is missing.</strong> Four models from four labs fail the same kind of question. That is unlikely to be one lab's design choice; it looks like a layer of Arabic regulatory knowledge that none of them was trained on.</li>
+<li><strong>The gaps differ, so no one has filled them.</strong> If any lab had comprehensive Saudi regulatory data, its model would lead across the board. Instead each model knows different pieces, which is what you would expect from scattered, incidental coverage.</li>
+<li><strong>Jurisdiction and date belong in the data.</strong> One line naming the country moved two models' scores by 0.12 and 0.18. Legal data for a region of many legal systems needs every item tagged with its jurisdiction, the date it was in force and its source, not just the text.</li>
+<li><strong>Knowing when not to answer is part of the skill.</strong> In legal work a confident wrong amount or deadline is the costly failure. Training data and rewards should credit «لا أعرف» over a guess and penalise wrong figures heavily, as this rubric does.</li>
+<li><strong>The checks behind a reward must be tested in Arabic.</strong> A reward for legal drafting is only as good as the checker that applies it. In my <a href="https://github.com/mzaghoo/arabic-legal-reward-reliability">earlier work on reward reliability</a>, a checker that couldn't read Arabic negation wrongly penalised 7 of 17 correct held-out sentences until it was fixed.</li>
+</ol>
+
+<div class="highlight"><p>For anyone deploying legal AI in Saudi Arabia today: closed-book answers to basic procedural questions are not yet reliable from any of these models, and the prompt has to state the jurisdiction. A model needs current, cited sources, and a confident answer without one should be checked.</p></div>
+
+<h2>What this does not show yet</h2>
+<ul>
+<li><strong>Whether retrieval closes the gap.</strong> This was a closed-book test. With the source passages in front of them, the models would likely do much better. Running the benchmark with its passages would show whether the gap is in knowledge or in reading Arabic legal text.</li>
+<li><strong>Whether new data fixes it.</strong> The strongest test is to write a set of sourced, lawyer-reviewed questions in the weak areas and show that adding them improves a model on a separate held-out set.</li>
+<li><strong>How stable the numbers are.</strong> Each model answered once and one grader scored them. Re-grading the same answers moved scores by up to 0.03, and no lawyer has yet reviewed the close calls.</li>
+<li><strong>Anything beyond Saudi Arabia.</strong> These are 79 questions from one Saudi portal. A small set for the UAE or Egypt would show whether the pattern holds across the region.</li>
+</ul>
+
+<h2>How it was run</h2>
+<p>The Saudi context did not reach each model in the same way. Gemini and Muse ran through an API with the one-line instruction above, and their requests had no search or tools enabled. Astra ran in Codex from a question file named after Najiz, the Saudi Ministry of Justice portal. Opus answered in a session already working on Saudi law. The benchmark has been public since 2024 and may be in any model's training data.</p>
+<p>Every answer, the grader's element-by-element decisions, the blinding key and a script that recomputes all 316 scores are public in the <a href="https://github.com/mzaghoo/najiz-closed-book-eval">najiz-closed-book-eval repository</a>, with the full report as a <a href="https://github.com/mzaghoo/najiz-closed-book-eval/blob/main/docs/report.pdf">PDF</a>. The benchmark text itself belongs to ArabLegalEval and is downloaded from its source rather than redistributed.</p>
+<p class="meta">Development used AI assistance for code, analysis and writing. No endorsement by any model provider or by the benchmark's authors is implied.</p>
+</article></main><footer><span>Mohamed Zaghoo · Physics, AI &amp; financial technology</span><span>© M. Zaghoo</span><a href="mailto:zaghoo@gmail.com">Get in touch</a></footer></body></html>

@@ -1,0 +1,329 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 278" font-family="Arial,Helvetica,sans-serif" font-size="14">
+<circle cx="7" cy="30" r="6" fill="#009E73"/><text x="20" y="35" fill="#29253c" font-weight="bold">Gemini 4 Carbon</text>
+<text x="20" y="54" fill="#686375" font-size="13">33 correct · 20 partial</text>
+<rect x="200.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q1: correct</title></rect>
+<rect x="218.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q2: correct</title></rect>
+<rect x="236.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q3: wrong</title></rect>
+<rect x="254.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q4: wrong</title></rect>
+<rect x="272.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q5: correct</title></rect>
+<rect x="290.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q6: wrong</title></rect>
+<rect x="308.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q7: wrong</title></rect>
+<rect x="326.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q8: wrong</title></rect>
+<rect x="344.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q9: correct</title></rect>
+<rect x="362.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q10: wrong</title></rect>
+<rect x="380.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q11: wrong</title></rect>
+<rect x="398.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q12: wrong</title></rect>
+<rect x="416.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q13: wrong</title></rect>
+<rect x="434.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q14: wrong</title></rect>
+<rect x="452.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q15: correct</title></rect>
+<rect x="470.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q16: correct</title></rect>
+<rect x="488.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q17: correct</title></rect>
+<rect x="506.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q18: correct</title></rect>
+<rect x="524.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q19: correct</title></rect>
+<rect x="542.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q20: correct</title></rect>
+<rect x="560.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q21: wrong</title></rect>
+<rect x="578.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q22: correct</title></rect>
+<rect x="596.5" y="20.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q23: partial</title></rect>
+<rect x="614.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q24: correct</title></rect>
+<rect x="632.5" y="20.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q25: partial</title></rect>
+<rect x="650.5" y="20.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q26: partial</title></rect>
+<rect x="668.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q27: correct</title></rect>
+<rect x="686.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q28: wrong</title></rect>
+<rect x="704.5" y="20.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q29: partial</title></rect>
+<rect x="722.5" y="20.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q30: partial</title></rect>
+<rect x="740.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q31: correct</title></rect>
+<rect x="758.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q32: correct</title></rect>
+<rect x="776.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q33: wrong</title></rect>
+<rect x="794.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q34: wrong</title></rect>
+<rect x="812.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q35: correct</title></rect>
+<rect x="830.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q36: correct</title></rect>
+<rect x="848.5" y="20.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q37: correct</title></rect>
+<rect x="866.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q38: wrong</title></rect>
+<rect x="884.5" y="20.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q39: wrong</title></rect>
+<rect x="902.5" y="20.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q40: partial</title></rect>
+<rect x="200.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q41: partial</title></rect>
+<rect x="218.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q42: correct</title></rect>
+<rect x="236.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q43: correct</title></rect>
+<rect x="254.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q44: correct</title></rect>
+<rect x="272.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q45: partial</title></rect>
+<rect x="290.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q46: wrong</title></rect>
+<rect x="308.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q47: partial</title></rect>
+<rect x="326.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q48: partial</title></rect>
+<rect x="344.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q49: wrong</title></rect>
+<rect x="362.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q50: partial</title></rect>
+<rect x="380.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q51: wrong</title></rect>
+<rect x="398.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q52: correct</title></rect>
+<rect x="416.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q53: wrong</title></rect>
+<rect x="434.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q54: wrong</title></rect>
+<rect x="452.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q55: wrong</title></rect>
+<rect x="470.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q56: correct</title></rect>
+<rect x="488.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q57: correct</title></rect>
+<rect x="506.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q58: correct</title></rect>
+<rect x="524.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q59: partial</title></rect>
+<rect x="542.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q60: partial</title></rect>
+<rect x="560.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q61: partial</title></rect>
+<rect x="578.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q62: partial</title></rect>
+<rect x="596.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q63: correct</title></rect>
+<rect x="614.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q64: wrong</title></rect>
+<rect x="632.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q65: partial</title></rect>
+<rect x="650.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q66: correct</title></rect>
+<rect x="668.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q67: correct</title></rect>
+<rect x="686.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q68: correct</title></rect>
+<rect x="704.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q69: correct</title></rect>
+<rect x="722.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q70: correct</title></rect>
+<rect x="740.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q71: wrong</title></rect>
+<rect x="758.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q72: correct</title></rect>
+<rect x="776.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q73: partial</title></rect>
+<rect x="794.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q74: partial</title></rect>
+<rect x="812.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q75: partial</title></rect>
+<rect x="830.5" y="38.5" width="14" height="14" rx="2" fill="#009E73" fill-opacity="0.35"><title>Gemini 4 Carbon Q76: partial</title></rect>
+<rect x="848.5" y="38.5" width="14" height="14" rx="2" fill="#009E73"><title>Gemini 4 Carbon Q77: correct</title></rect>
+<rect x="866.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q78: wrong</title></rect>
+<rect x="884.5" y="38.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Gemini 4 Carbon Q79: wrong</title></rect>
+<circle cx="7" cy="86" r="6" fill="#0072B2"/><text x="20" y="91" fill="#29253c" font-weight="bold">GPT-6 Astra</text>
+<text x="20" y="110" fill="#686375" font-size="13">28 correct · 18 partial</text>
+<rect x="200.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q1: wrong</title></rect>
+<rect x="218.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q2: partial</title></rect>
+<rect x="236.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q3: wrong</title></rect>
+<rect x="254.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q4: wrong</title></rect>
+<rect x="272.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q5: wrong</title></rect>
+<rect x="290.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q6: wrong</title></rect>
+<rect x="308.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q7: wrong</title></rect>
+<rect x="326.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q8: correct</title></rect>
+<rect x="344.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q9: correct</title></rect>
+<rect x="362.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q10: correct</title></rect>
+<rect x="380.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q11: wrong</title></rect>
+<rect x="398.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q12: wrong</title></rect>
+<rect x="416.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q13: wrong</title></rect>
+<rect x="434.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q14: correct</title></rect>
+<rect x="452.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q15: correct</title></rect>
+<rect x="470.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q16: correct</title></rect>
+<rect x="488.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q17: correct</title></rect>
+<rect x="506.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q18: correct</title></rect>
+<rect x="524.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q19: partial</title></rect>
+<rect x="542.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q20: correct</title></rect>
+<rect x="560.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q21: correct</title></rect>
+<rect x="578.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q22: correct</title></rect>
+<rect x="596.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q23: correct</title></rect>
+<rect x="614.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q24: partial</title></rect>
+<rect x="632.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q25: wrong</title></rect>
+<rect x="650.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q26: wrong</title></rect>
+<rect x="668.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q27: correct</title></rect>
+<rect x="686.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q28: wrong</title></rect>
+<rect x="704.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q29: wrong</title></rect>
+<rect x="722.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q30: wrong</title></rect>
+<rect x="740.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q31: wrong</title></rect>
+<rect x="758.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q32: correct</title></rect>
+<rect x="776.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q33: wrong</title></rect>
+<rect x="794.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q34: wrong</title></rect>
+<rect x="812.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q35: partial</title></rect>
+<rect x="830.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q36: partial</title></rect>
+<rect x="848.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q37: correct</title></rect>
+<rect x="866.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q38: wrong</title></rect>
+<rect x="884.5" y="76.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q39: wrong</title></rect>
+<rect x="902.5" y="76.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q40: partial</title></rect>
+<rect x="200.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q41: partial</title></rect>
+<rect x="218.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q42: correct</title></rect>
+<rect x="236.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q43: correct</title></rect>
+<rect x="254.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q44: correct</title></rect>
+<rect x="272.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q45: correct</title></rect>
+<rect x="290.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q46: wrong</title></rect>
+<rect x="308.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q47: wrong</title></rect>
+<rect x="326.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q48: wrong</title></rect>
+<rect x="344.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q49: wrong</title></rect>
+<rect x="362.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q50: wrong</title></rect>
+<rect x="380.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q51: partial</title></rect>
+<rect x="398.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q52: correct</title></rect>
+<rect x="416.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q53: wrong</title></rect>
+<rect x="434.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q54: wrong</title></rect>
+<rect x="452.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q55: wrong</title></rect>
+<rect x="470.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q56: correct</title></rect>
+<rect x="488.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q57: wrong</title></rect>
+<rect x="506.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q58: wrong</title></rect>
+<rect x="524.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q59: correct</title></rect>
+<rect x="542.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q60: partial</title></rect>
+<rect x="560.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q61: partial</title></rect>
+<rect x="578.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q62: partial</title></rect>
+<rect x="596.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q63: correct</title></rect>
+<rect x="614.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q64: wrong</title></rect>
+<rect x="632.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q65: partial</title></rect>
+<rect x="650.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q66: correct</title></rect>
+<rect x="668.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q67: correct</title></rect>
+<rect x="686.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q68: partial</title></rect>
+<rect x="704.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q69: correct</title></rect>
+<rect x="722.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q70: correct</title></rect>
+<rect x="740.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2"><title>GPT-6 Astra Q71: correct</title></rect>
+<rect x="758.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q72: partial</title></rect>
+<rect x="776.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q73: partial</title></rect>
+<rect x="794.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q74: partial</title></rect>
+<rect x="812.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q75: partial</title></rect>
+<rect x="830.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q76: wrong</title></rect>
+<rect x="848.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q77: wrong</title></rect>
+<rect x="866.5" y="94.5" width="14" height="14" rx="2" fill="#0072B2" fill-opacity="0.35"><title>GPT-6 Astra Q78: partial</title></rect>
+<rect x="884.5" y="94.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>GPT-6 Astra Q79: wrong</title></rect>
+<circle cx="7" cy="142" r="6" fill="#D55E00"/><text x="20" y="147" fill="#29253c" font-weight="bold">Claude Opus 5.5</text>
+<text x="20" y="166" fill="#686375" font-size="13">12 correct · 21 partial</text>
+<rect x="200.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q1: wrong</title></rect>
+<rect x="218.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q2: partial</title></rect>
+<rect x="236.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q3: wrong</title></rect>
+<rect x="254.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q4: wrong</title></rect>
+<rect x="272.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q5: wrong</title></rect>
+<rect x="290.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q6: correct</title></rect>
+<rect x="308.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q7: wrong</title></rect>
+<rect x="326.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q8: wrong</title></rect>
+<rect x="344.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q9: wrong</title></rect>
+<rect x="362.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q10: wrong</title></rect>
+<rect x="380.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q11: wrong</title></rect>
+<rect x="398.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q12: wrong</title></rect>
+<rect x="416.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q13: wrong</title></rect>
+<rect x="434.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q14: wrong</title></rect>
+<rect x="452.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q15: correct</title></rect>
+<rect x="470.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q16: wrong</title></rect>
+<rect x="488.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q17: wrong</title></rect>
+<rect x="506.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q18: wrong</title></rect>
+<rect x="524.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q19: partial</title></rect>
+<rect x="542.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q20: partial</title></rect>
+<rect x="560.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q21: wrong</title></rect>
+<rect x="578.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q22: correct</title></rect>
+<rect x="596.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q23: partial</title></rect>
+<rect x="614.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q24: wrong</title></rect>
+<rect x="632.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q25: wrong</title></rect>
+<rect x="650.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q26: partial</title></rect>
+<rect x="668.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q27: correct</title></rect>
+<rect x="686.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q28: partial</title></rect>
+<rect x="704.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q29: partial</title></rect>
+<rect x="722.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q30: partial</title></rect>
+<rect x="740.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q31: partial</title></rect>
+<rect x="758.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q32: wrong</title></rect>
+<rect x="776.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q33: wrong</title></rect>
+<rect x="794.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q34: wrong</title></rect>
+<rect x="812.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q35: wrong</title></rect>
+<rect x="830.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q36: wrong</title></rect>
+<rect x="848.5" y="132.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q37: correct</title></rect>
+<rect x="866.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q38: wrong</title></rect>
+<rect x="884.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q39: wrong</title></rect>
+<rect x="902.5" y="132.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q40: wrong</title></rect>
+<rect x="200.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q41: partial</title></rect>
+<rect x="218.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q42: correct</title></rect>
+<rect x="236.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q43: wrong</title></rect>
+<rect x="254.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q44: correct</title></rect>
+<rect x="272.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q45: correct</title></rect>
+<rect x="290.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q46: wrong</title></rect>
+<rect x="308.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q47: wrong</title></rect>
+<rect x="326.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q48: wrong</title></rect>
+<rect x="344.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q49: wrong</title></rect>
+<rect x="362.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q50: wrong</title></rect>
+<rect x="380.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q51: wrong</title></rect>
+<rect x="398.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q52: partial</title></rect>
+<rect x="416.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q53: wrong</title></rect>
+<rect x="434.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q54: wrong</title></rect>
+<rect x="452.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q55: wrong</title></rect>
+<rect x="470.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q56: correct</title></rect>
+<rect x="488.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q57: wrong</title></rect>
+<rect x="506.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q58: wrong</title></rect>
+<rect x="524.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q59: partial</title></rect>
+<rect x="542.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q60: wrong</title></rect>
+<rect x="560.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q61: partial</title></rect>
+<rect x="578.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q62: partial</title></rect>
+<rect x="596.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q63: wrong</title></rect>
+<rect x="614.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q64: wrong</title></rect>
+<rect x="632.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q65: partial</title></rect>
+<rect x="650.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q66: correct</title></rect>
+<rect x="668.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q67: correct</title></rect>
+<rect x="686.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q68: wrong</title></rect>
+<rect x="704.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q69: wrong</title></rect>
+<rect x="722.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q70: partial</title></rect>
+<rect x="740.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00"><title>Claude Opus 5.5 Q71: correct</title></rect>
+<rect x="758.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q72: partial</title></rect>
+<rect x="776.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q73: partial</title></rect>
+<rect x="794.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q74: partial</title></rect>
+<rect x="812.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q75: partial</title></rect>
+<rect x="830.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q76: wrong</title></rect>
+<rect x="848.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q77: wrong</title></rect>
+<rect x="866.5" y="150.5" width="14" height="14" rx="2" fill="#D55E00" fill-opacity="0.35"><title>Claude Opus 5.5 Q78: partial</title></rect>
+<rect x="884.5" y="150.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Claude Opus 5.5 Q79: wrong</title></rect>
+<circle cx="7" cy="198" r="6" fill="#CC79A7"/><text x="20" y="203" fill="#29253c" font-weight="bold">Muse Spark 1.3</text>
+<text x="20" y="222" fill="#686375" font-size="13">11 correct · 20 partial</text>
+<rect x="200.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q1: wrong</title></rect>
+<rect x="218.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q2: partial</title></rect>
+<rect x="236.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q3: wrong</title></rect>
+<rect x="254.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q4: wrong</title></rect>
+<rect x="272.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q5: wrong</title></rect>
+<rect x="290.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q6: wrong</title></rect>
+<rect x="308.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q7: wrong</title></rect>
+<rect x="326.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q8: wrong</title></rect>
+<rect x="344.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q9: wrong</title></rect>
+<rect x="362.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q10: wrong</title></rect>
+<rect x="380.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q11: wrong</title></rect>
+<rect x="398.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q12: wrong</title></rect>
+<rect x="416.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q13: wrong</title></rect>
+<rect x="434.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q14: wrong</title></rect>
+<rect x="452.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q15: correct</title></rect>
+<rect x="470.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q16: wrong</title></rect>
+<rect x="488.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q17: wrong</title></rect>
+<rect x="506.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q18: correct</title></rect>
+<rect x="524.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q19: partial</title></rect>
+<rect x="542.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q20: partial</title></rect>
+<rect x="560.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q21: wrong</title></rect>
+<rect x="578.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q22: correct</title></rect>
+<rect x="596.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q23: partial</title></rect>
+<rect x="614.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q24: correct</title></rect>
+<rect x="632.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q25: wrong</title></rect>
+<rect x="650.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q26: partial</title></rect>
+<rect x="668.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q27: correct</title></rect>
+<rect x="686.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q28: wrong</title></rect>
+<rect x="704.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q29: partial</title></rect>
+<rect x="722.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q30: partial</title></rect>
+<rect x="740.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q31: wrong</title></rect>
+<rect x="758.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q32: wrong</title></rect>
+<rect x="776.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q33: wrong</title></rect>
+<rect x="794.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q34: wrong</title></rect>
+<rect x="812.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q35: wrong</title></rect>
+<rect x="830.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q36: wrong</title></rect>
+<rect x="848.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q37: partial</title></rect>
+<rect x="866.5" y="188.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q38: partial</title></rect>
+<rect x="884.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q39: wrong</title></rect>
+<rect x="902.5" y="188.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q40: wrong</title></rect>
+<rect x="200.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q41: partial</title></rect>
+<rect x="218.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q42: correct</title></rect>
+<rect x="236.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q43: wrong</title></rect>
+<rect x="254.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q44: partial</title></rect>
+<rect x="272.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q45: correct</title></rect>
+<rect x="290.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q46: wrong</title></rect>
+<rect x="308.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q47: wrong</title></rect>
+<rect x="326.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q48: wrong</title></rect>
+<rect x="344.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q49: wrong</title></rect>
+<rect x="362.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q50: wrong</title></rect>
+<rect x="380.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q51: wrong</title></rect>
+<rect x="398.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q52: wrong</title></rect>
+<rect x="416.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q53: wrong</title></rect>
+<rect x="434.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q54: wrong</title></rect>
+<rect x="452.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q55: partial</title></rect>
+<rect x="470.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q56: correct</title></rect>
+<rect x="488.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q57: wrong</title></rect>
+<rect x="506.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q58: wrong</title></rect>
+<rect x="524.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q59: partial</title></rect>
+<rect x="542.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q60: wrong</title></rect>
+<rect x="560.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q61: partial</title></rect>
+<rect x="578.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q62: partial</title></rect>
+<rect x="596.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q63: partial</title></rect>
+<rect x="614.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q64: wrong</title></rect>
+<rect x="632.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q65: partial</title></rect>
+<rect x="650.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q66: correct</title></rect>
+<rect x="668.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q67: correct</title></rect>
+<rect x="686.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q68: partial</title></rect>
+<rect x="704.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q69: wrong</title></rect>
+<rect x="722.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7"><title>Muse Spark 1.3 Q70: correct</title></rect>
+<rect x="740.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q71: wrong</title></rect>
+<rect x="758.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q72: partial</title></rect>
+<rect x="776.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q73: wrong</title></rect>
+<rect x="794.5" y="206.5" width="14" height="14" rx="2" fill="#CC79A7" fill-opacity="0.35"><title>Muse Spark 1.3 Q74: partial</title></rect>
+<rect x="812.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q75: wrong</title></rect>
+<rect x="830.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q76: wrong</title></rect>
+<rect x="848.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q77: wrong</title></rect>
+<rect x="866.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q78: wrong</title></rect>
+<rect x="884.5" y="206.5" width="14" height="14" rx="2" fill="none" stroke="#686375" stroke-opacity="0.55"><title>Muse Spark 1.3 Q79: wrong</title></rect>
+<rect x="200.5" y="254.5" width="12" height="12" rx="2" fill="#686375"/><text x="218" y="266" fill="#686375" font-size="13">correct</text>
+<rect x="293.5" y="254.5" width="12" height="12" rx="2" fill="#686375" fill-opacity="0.35"/><text x="311" y="266" fill="#686375" font-size="13">partial</text>
+<rect x="386.5" y="254.5" width="12" height="12" rx="2" fill="none" stroke="#686375"/><text x="404" y="266" fill="#686375" font-size="13">wrong or no answer</text>
+</svg>
